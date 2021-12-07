@@ -1,4 +1,4 @@
-# Kody Notes
+# Kody - generator kodów EAN
 * program wspomagający wprowadzanie towarów do bazy danych, generuje plik html z kodami, kody można użyć, drukując bądź, 
 * gdy ma się model skanera odczytujący kody EAN z ekranu (np.) ZEBRA DS2208. Zdecydowanie ułatwia to wprowadzanie i wyszukiwanie towaru.
 * 
