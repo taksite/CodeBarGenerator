@@ -1,0 +1,4 @@
+DirectoryIndex index.php
+Options -Indexes
+Allow from localhost
+Deny from all
